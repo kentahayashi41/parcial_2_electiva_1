@@ -1,1 +1,1 @@
-# parcial_2_electiva_1
+Sistema de gestión de eventos para PLANAZO, desarrollado en C# y .NET. Permite consultar eventos de entretenimiento, reservar y cancelar entradas, y controlar los cupos disponibles mediante una aplicación de consola, aplicando los principios de la Programación Orientada a Objetos (POO).
